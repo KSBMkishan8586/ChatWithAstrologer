@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "680836747287",
+    "firebase_url": "https://chat-with-astrologer-default-rtdb.firebaseio.com",
+    "project_id": "chat-with-astrologer",
+    "storage_bucket": "chat-with-astrologer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680836747287:android:c2fe78b1d50491ea06cc52",
+        "android_client_info": {
+          "package_name": "com.ksbm.chatwithastrologer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680836747287-0r21llroqptgptrcpvuoacrqn4rbebii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBocjWTQ89QHXlCoZgFu57XRxui4psX4lQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680836747287-0r21llroqptgptrcpvuoacrqn4rbebii.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "680836747287-b1dv88ce91o1l3o41ogc72qgnk9mkqmc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ksbm.chatwithastrologer.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
